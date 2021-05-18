@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# People who are Fully Vaccinated from COVID-19 Compared to GDP in the World 
 
-You can use the [editor on GitHub](https://github.com/mhenesey/COVID-19/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## By Maisie Henesey
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### May 10, 2021
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mhenesey/COVID-19/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	
+  Since COVID-19 began in spring of 2020 I have been conducting research based on released data on how many people have been affected in the world. I started this at the end of my junior year when COVID-19 broke out and used Tableau as my way to display the data found. Now almost a year later I have conducted new research based on people who have been fully vaccinated  around the world since the vaccine has been released. I chose to compare this data with the GDP of the world so that I could find a pattern if any on the relation between the two. In this paper I will display my findings based on the data I gathered.
+ 
+ As you can tell by looking at the map the biggest dots indicate the highest GDP as well as the most vaccinated people. Comparing the two maps you can tell that the United States both has a high GDP compared to other places as well as more people vaccinated. Other places like China also have a high GDP however, because they don’t share all updated information have little to no people vaccinated according to the data gathered. Other places that have higher GDP as well as more people vaccinated include the United Kingdom, Germany and France. We can see this both in the maps as well as the bar charts proving that Europe as a whole has a high GDP and more people fully vaccinated. Other interesting data includes India. India has a high number of people fully vaccinated however doesn’t stand as one of the higher GDP’s. This could be because India is much larger so there GDP may vary differently. 
+ 
+ Overall as we can see there is a strong correlation between more people getting vaccinated in countries that are better off with a higher GDP. This can be because they can afford it. What needs to be taken into consideration with errors in the data and display of maps is the fact that not all countries display their vaccinations the same, therefore the numbers can be incorrect to what they truly have. Along with that the data is consistently changing therefore the numbers will change every day. 
